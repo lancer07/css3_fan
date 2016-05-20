@@ -54,7 +54,7 @@ body {
 #fan .mask .line {
   width: 200px;
   height: 2px;
-  background: #0e6873;
+  background: #3c8a93;
   position: absolute;
   top: 99px;
   z-index: 2;
@@ -62,7 +62,7 @@ body {
 #fan .mask .line_1 {
   width: 200px;
   height: 2px;
-  background: #0e6873;
+  background: #3c8a93;
   position: absolute;
   top: 99px;
   z-index: 2;
@@ -70,47 +70,47 @@ body {
 #fan .mask .line_2 {
   width: 200px;
   height: 2px;
-  background: #0e6873;
+  background: #3c8a93;
+  position: absolute;
+  top: 99px;
+  z-index: 2;
+  transform: rotate(30deg);
+}
+#fan .mask .line_3 {
+  width: 200px;
+  height: 2px;
+  background: #3c8a93;
   position: absolute;
   top: 99px;
   z-index: 2;
   transform: rotate(60deg);
 }
-#fan .mask .line_3 {
+#fan .mask .line_4 {
   width: 200px;
   height: 2px;
-  background: #0e6873;
+  background: #3c8a93;
+  position: absolute;
+  top: 99px;
+  z-index: 2;
+  transform: rotate(90deg);
+}
+#fan .mask .line_5 {
+  width: 200px;
+  height: 2px;
+  background: #3c8a93;
   position: absolute;
   top: 99px;
   z-index: 2;
   transform: rotate(120deg);
 }
-#fan .mask .line_4 {
-  width: 200px;
-  height: 2px;
-  background: #0e6873;
-  position: absolute;
-  top: 99px;
-  z-index: 2;
-  transform: rotate(180deg);
-}
-#fan .mask .line_5 {
-  width: 200px;
-  height: 2px;
-  background: #0e6873;
-  position: absolute;
-  top: 99px;
-  z-index: 2;
-  transform: rotate(240deg);
-}
 #fan .mask .line_6 {
   width: 200px;
   height: 2px;
-  background: #0e6873;
+  background: #3c8a93;
   position: absolute;
   top: 99px;
   z-index: 2;
-  transform: rotate(300deg);
+  transform: rotate(150deg);
 }
 #fan .mask .leafs {
   z-index: 1;
