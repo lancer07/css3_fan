@@ -253,6 +253,7 @@ body {
   cursor: pointer;
   top: 296px;
   z-index: 12;
+  transform: rotateX(45deg);
 }
 #fan .switch_0 {
   position: absolute;
@@ -333,6 +334,7 @@ body {
   cursor: pointer;
   top: 296px;
   z-index: 12;
+  transform: rotateX(45deg);
   left: 50px;
 }
 #fan .switch_btn_1 {
@@ -350,6 +352,7 @@ body {
   cursor: pointer;
   top: 296px;
   z-index: 12;
+  transform: rotateX(45deg);
   left: 75px;
 }
 #fan .switch_btn_2 {
@@ -367,6 +370,7 @@ body {
   cursor: pointer;
   top: 296px;
   z-index: 12;
+  transform: rotateX(45deg);
   left: 100px;
 }
 #fan .switch_btn_3 {
@@ -384,6 +388,7 @@ body {
   cursor: pointer;
   top: 296px;
   z-index: 12;
+  transform: rotateX(45deg);
   left: 125px;
 }
 #fan .on_off {
