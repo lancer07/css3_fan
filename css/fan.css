@@ -253,6 +253,7 @@ body {
   color: #0e6873;
   cursor: pointer;
   top: 296px;
+  transform: rotateX(45deg);
   z-index: 12;
 }
 #fan .switch_0 {
@@ -333,6 +334,7 @@ body {
   color: #0e6873;
   cursor: pointer;
   top: 296px;
+  transform: rotateX(45deg);
   z-index: 12;
   left: 50px;
 }
@@ -350,6 +352,7 @@ body {
   color: #0e6873;
   cursor: pointer;
   top: 296px;
+  transform: rotateX(45deg);
   z-index: 12;
   left: 75px;
 }
@@ -367,6 +370,7 @@ body {
   color: #0e6873;
   cursor: pointer;
   top: 296px;
+  transform: rotateX(45deg);
   z-index: 12;
   left: 100px;
 }
@@ -384,6 +388,7 @@ body {
   color: #0e6873;
   cursor: pointer;
   top: 296px;
+  transform: rotateX(45deg);
   z-index: 12;
   left: 125px;
 }
